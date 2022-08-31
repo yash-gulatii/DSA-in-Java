@@ -1,8 +1,8 @@
-# Day 1 JAVA+DSA Report
+# Day 1 DSA in Java Report
 
 ## 22 August 2022
 
-Hello this is my **First Report** for **JAVA+DSA**.
+Hello this is my **First Report** for **DSA in Java**.
 
 So, Today I Learned some topics which are below:
 
