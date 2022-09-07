@@ -8,9 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Day 3 Java Basics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 4 Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 5 Linear Search" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Assignments/Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 6 Binary Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 7 Binary Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignments/Day 1 Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignments/Day 2 Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
