@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Day 11 Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 12 Patterns" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day 13 Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day 14 Time and Space Complexity" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
